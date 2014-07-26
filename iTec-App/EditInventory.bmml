@@ -79,7 +79,7 @@
         <text>Bathroom</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="85" y="422" w="-1" h="-1" measuredW="254" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="85" y="413" w="-1" h="-1" measuredW="254" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Remove%20Selected%20Items%20from%20Inventory</text>
       </controlProperties>

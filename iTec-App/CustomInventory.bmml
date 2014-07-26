@@ -58,6 +58,8 @@
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="738" y="401" w="-1" h="-1" measuredW="122" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>EditInventory%26bm%3BEditInventory.bmml%26bm%3BEditInventory.bmml%26bm%3BEditInventory.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22584%2C401%2C706%2C428%22%20href%3D%22EditInventory.bmml%22%20alt%3D%22EditInventory%22%20id%3D%2213%22/%3E</map>
         <text>Create%20Inventory</text>
       </controlProperties>
     </control>
