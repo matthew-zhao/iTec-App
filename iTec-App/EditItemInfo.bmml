@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="368" measuredH="577" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="86" y="4" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <model>IPhone5</model>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="180" y="135" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inventory%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="127" y="159" w="182" h="27" measuredW="99" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CEditItem%26bm%3BEditItem.bmml%26bm%3BEditItem.bmml%26bm%3BEditItem.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22127%2C155%2C222%2C182%22%20href%3D%22EditItem.bmml%22%20alt%3D%22EditItem%22%20id%3D%223%22/%3E</map>
+        <text>Info%2C%20Item</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextArea" x="127" y="247" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="127" y="211" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description%20of%20Item</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

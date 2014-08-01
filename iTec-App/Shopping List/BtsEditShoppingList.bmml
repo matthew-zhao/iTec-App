@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="814" measuredH="744" mockupW="758" mockupH="722">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="56" y="22" w="592" h="722" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="272" y="206" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Shopping%20List%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="202" y="255" w="286" h="282" measuredW="309" measuredH="195" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Item%5Cr%20%5E%2C%20Location%20v%2C%20Quantity%20v%2C%20Bought%0AASUS%20Zenbook%5Cr%2C%20Best%20Buy%2C%201%2C%201%0ADigital%20Camera%5Cr%2C%20Amazon%2C%202%2C%201%0AExtension%20Cord%5Cr%2C%20Frys%2C%205%2C%203%0AXbox%20One%5Cr%2C%20MS%20Store%2C%201%2C%20%200%0AUSB%2C%20Target%2C%206%2C%202%0A%7B65L%2C%200R%2C%2035%2C%200C%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="264" y="568" w="-1" h="-1" measuredW="176" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>BtsEditItem%26bm%3BBtsEditItem.bmml%26bm%3BBtsEditItem.bmml%26bm%3BBtsEditItem.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22208%2C546%2C384%2C573%22%20href%3D%22BtsEditItem.bmml%22%20alt%3D%22BtsEditItem%22%20id%3D%223%22/%3E</map>
+        <text>Add%20Item%20to%20Shopping%20List</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="614" y="358" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Textboxes%20will%20be%20like%20this%0A%20%0A%22%5B-%5D%22%20means%20partially%20bought%0A%22%5Bx%5D%22%20means%20completely%20bought%0A%22%5B%5D%22%20means%20not%20bought%20at%20all%0A%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

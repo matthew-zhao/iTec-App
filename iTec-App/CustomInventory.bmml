@@ -35,38 +35,42 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhone" x="664" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPhone" x="674" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <model>IPhone5</model>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="738" y="128" w="-1" h="-1" measuredW="140" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <text>School/Acad%20Inventory</text>
-      </controlProperties>
-    </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="700" y="158" w="-1" h="-1" measuredW="261" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Choose%20from%20among%20the%20following%20selections</text>
-      </controlProperties>
-    </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="738" y="207" w="154" h="168" measuredW="195" measuredH="215" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%5B%20%5D%20College-ruled%20notebook%20paper%0A%5Bx%5D%20No.2%20Pencils%0A%5B%20%5D%20Eraser%0A%5Bx%5D%20Black/Blue%20ink%20pen%0A%5B%20%5D%20Binder%0A%5Bx%5D%20Backpack%0A%5B%20%5D%20Ultrabook%20for%20Notes%0A%5Bx%5D%20Highlighter%0A%20%0ASelect%20as%20many%20as%20you%20would%20like</text>
-      </controlProperties>
-    </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="738" y="401" w="-1" h="-1" measuredW="122" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>EditInventory%26bm%3BEditInventory.bmml%26bm%3BEditInventory.bmml%26bm%3BEditInventory.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22584%2C401%2C706%2C428%22%20href%3D%22EditInventory.bmml%22%20alt%3D%22EditInventory%22%20id%3D%2213%22/%3E</map>
-        <text>Create%20Inventory</text>
-      </controlProperties>
-    </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="715" y="439" w="-1" h="-1" measuredW="181" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Add%20Unselected%20to%20Wishlist</text>
-      </controlProperties>
+    <control controlID="15" controlTypeID="__group__" x="700" y="128" w="261" h="338" measuredW="261" measuredH="338" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="38" y="0" w="-1" h="-1" measuredW="140" measuredH="21" zOrder="0" locked="false" isInGroup="15">
+          <controlProperties>
+            <bold>true</bold>
+            <text>School/Acad%20Inventory</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="30" w="-1" h="-1" measuredW="261" measuredH="21" zOrder="1" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Choose%20from%20among%20the%20following%20selections</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="38" y="79" w="154" h="168" measuredW="195" measuredH="215" zOrder="2" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>%5B%20%5D%20College-ruled%20notebook%20paper%0A%5Bx%5D%20No.2%20Pencils%0A%5B%20%5D%20Eraser%0A%5Bx%5D%20Black/Blue%20ink%20pen%0A%5B%20%5D%20Binder%0A%5Bx%5D%20Backpack%0A%5B%20%5D%20Ultrabook%20for%20Notes%0A%5Bx%5D%20Highlighter%0A%20%0ASelect%20as%20many%20as%20you%20would%20like</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="38" y="276" w="-1" h="-1" measuredW="122" measuredH="27" zOrder="3" locked="false" isInGroup="15">
+          <controlProperties>
+            <href>EditInventory%26bm%3BEditInventory.bmml%26bm%3BEditInventory.bmml%26bm%3BEditInventory.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22584%2C404%2C706%2C431%22%20href%3D%22EditInventory.bmml%22%20alt%3D%22EditInventory%22%20id%3D%223%22/%3E</map>
+            <text>Create%20Inventory</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="15" y="311" w="-1" h="-1" measuredW="181" measuredH="27" zOrder="4" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Add%20Unselected%20to%20Wishlist</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
     </control>
   </controls>
 </mockup>
