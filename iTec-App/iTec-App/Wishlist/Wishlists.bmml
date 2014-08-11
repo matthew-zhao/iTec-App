@@ -1,0 +1,24 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="347" measuredH="593" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="65" y="20" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="163" y="137" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Wishlists</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::DataGrid" x="101" y="208" w="193" h="178" measuredW="231" measuredH="133" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%5Cr%20%5E%2C%20Type%2C%20Priority%20v%0ADeedee%5Cr%2C%20Electronics%2C%201%2C%20%5B-%5D%0ALawdee%5Cr%2C%20Clothes%2C%202%2C%20%5Bx%5D%0AFawdee%5Cr%2C%20Food%2C%203%2C%20%5B-%5D%0A%7B65L%2C%200R%2C%2035%2C%200C%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="143" y="454" w="-1" h="-1" measuredW="94" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20Wishlist</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

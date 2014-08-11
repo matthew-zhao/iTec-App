@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="Test2.BtsPresetItems"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Test2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="MY APPLICATION" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="page title" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <TextBlock HorizontalAlignment="Left" Margin="0,44,-40,0" TextWrapping="Wrap" Text="Choose from among the following selections:" VerticalAlignment="Top" Height="29" Width="402" FontSize="18"/>
+            <CheckBox Content="No.2 Pencils" HorizontalAlignment="Left" Margin="24,251,0,0" VerticalAlignment="Top" FontFamily="Global User Interface"/>
+            <CheckBox Content="No.2 Pencils" HorizontalAlignment="Left" Margin="24,86,0,0" VerticalAlignment="Top" FontFamily="Global User Interface"/>
+            <CheckBox Content="No.2 Pencils" HorizontalAlignment="Left" Margin="24,171,0,0" VerticalAlignment="Top" FontFamily="Global User Interface" RenderTransformOrigin="0.534,-0.989"/>
+
+        </Grid>
+    </Grid>
+</Page>
+

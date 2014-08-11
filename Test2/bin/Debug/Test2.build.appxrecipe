@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>COLLEGEBOOK</Machine>
+    <WindowsUser>Matthew</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>aa9e6836-060f-44e7-bf31-997db47473bf</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\Test2.exe">
+      <PackagePath>Test2.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Toolkit.Content\ApplicationBar.Add.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Toolkit.Content\ApplicationBar.Delete.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Toolkit.Content\ApplicationBar.Select.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Media\demo_page.css">
+      <PackagePath>Media\demo_page.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Media\demo_table.css">
+      <PackagePath>Media\demo_table.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Media\demo_table_jui.css">
+      <PackagePath>Media\demo_table_jui.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Media\jquery.dataTables.css">
+      <PackagePath>Media\jquery.dataTables.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\Media\jquery.dataTables_themeroller.css">
+      <PackagePath>Media\jquery.dataTables_themeroller.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\README_FIRST.txt">
+      <PackagePath>README_FIRST.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\BtsEditItem.xbf">
+      <PackagePath>BtsEditItem.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\BtsEditShoppingList.xbf">
+      <PackagePath>BtsEditShoppingList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\BtsPresetItems.xbf">
+      <PackagePath>BtsPresetItems.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\BtsPresets.xbf">
+      <PackagePath>BtsPresets.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\BtsShoppingLists.xbf">
+      <PackagePath>BtsShoppingLists.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\Test2.xr.xml">
+      <PackagePath>Test2.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\Visual Studio 2013\Projects\Test2\Test2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

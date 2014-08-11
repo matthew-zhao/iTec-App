@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Test2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Test2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="34,78,-29,0" TextWrapping="Wrap" Text="i-Tec Back-to-School " VerticalAlignment="Top" FontSize="36" Width="395"/>
+        <Button Content="Create Your Own Shopping List" HorizontalAlignment="Left" Margin="62,152,0,0" VerticalAlignment="Top" FontFamily="Global User Interface" Tapped="onCreateShopList"/>
+        <Button Content="Open Shopping List" HorizontalAlignment="Left" Margin="62,239,0,0" VerticalAlignment="Top"/>
+        <Button Content="Select Our Shopping Lists" HorizontalAlignment="Left" Margin="62,326,0,0" VerticalAlignment="Top" Tapped="onPresetClick"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Margin="62,426,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.564,0.419"/>
+
+    </Grid>
+</Page>

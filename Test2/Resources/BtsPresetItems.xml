@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<root>
+<items>
+	<item>
+		<name>No. 2 Pencil</name>
+		<lists>
+			<list>1</list>
+			<list>2</list>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Pen w/blue or black ink</name>
+		<lists>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Whiteout</name>
+		<lists>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Crayons</name>
+		<lists>
+			<list>1</list>
+			<list>2</list>
+		</lists>
+	</item>
+	<item>
+		<name>Colored Pencils</name>
+		<lists>
+			<list>2</list>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Folders(ROY G. BIV)</name>
+		<lists>
+			<list>1</list>
+			<list>2</list>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>3-Ring Binder</name>
+		<lists>
+			<list>2</list>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Backpack</name>
+		<lists>
+			<list>1</list>
+			<list>2</list>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Highlighter</name>
+		<lists>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Colored Markers</name>
+		<lists>
+			<list>1</list>
+			<list>2</list>
+			<list>3</list>
+		</lists>
+	</item>
+	<item>
+		<name>College-Ruled Notebook Paper</name>
+		<lists>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Wide-Ruled Notebook Paper</name>
+		<lists>
+			<list>2</list>
+			<list>3</list>
+		</lists>
+	</item>
+	<item>
+		<name>Index Cards</name>
+		<lists>
+			<list>2</list>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Notebook</name>
+		<lists>
+			<list>1</list>
+			<list>2</list>
+			<list>3</list>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+	<item>
+		<name>Graph Paper</name>
+		<lists>
+			<list>4</list>
+			<list>5</list>
+		</lists>
+	</item>
+</items>
+</root>
+
+
+
+
